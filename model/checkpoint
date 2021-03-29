@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/abhishekbhatt/Documents/DeepPavlov_Chatbots/DP_weather_bot/model/policy"
+all_model_checkpoint_paths: "/home/abhishekbhatt/Documents/DeepPavlov_Chatbots/DP_weather_bot/model/policy"

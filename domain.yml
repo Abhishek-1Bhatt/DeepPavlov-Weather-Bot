@@ -1,0 +1,23 @@
+
+slots:
+    location:
+        type: text
+
+entities:
+- location
+
+intents:
+    - greet
+    - goodbye
+    - ask_weather_location
+    - ask_weather
+    
+responses:
+    utter_greet:
+        - text: "Hi, how can I help you?"
+    utter_goodbye:
+        - text: "Glad, I could be of service, Goodbye!"
+    utter_ask_location:
+        - text: "In what city are you interested?"
+    utter_pleasant:
+        - text: "The weather today is pleasant, but carrying an umbrella is never a bad idea :)"
